@@ -56,7 +56,7 @@ Developed by: SANTHOSH S RegisterNumber: 24004753
 
 
 **RESULTS**
-Thus, ENCODER 8TO3 DATAFLOW Modelling is executed using Quartus II.
+Thus, ENCODER 8TO3 DATAFLOW Modelling is executed using Quartus II..
 
 
 
